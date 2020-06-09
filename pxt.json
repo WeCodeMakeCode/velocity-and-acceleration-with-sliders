@@ -1,0 +1,17 @@
+{
+    "name": "velocity and acceleration with sliders",
+    "dependencies": {
+        "device": "*",
+        "slider ext": "github:wecodemakecode/slider-ext#205b8618ff9471d764e07a46373aa34c77217201"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
